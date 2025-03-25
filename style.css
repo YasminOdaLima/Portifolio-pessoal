@@ -329,6 +329,9 @@ section {
 }
 
 /* ---------------- About ----------------------- */
+#principal {
+  border-radius: 10%;
+}
 .about {
   position: relative;
   display: flex;
@@ -845,7 +848,7 @@ form textarea {
 
   }
   #principal {
-    border-radius: 50%;
+    border-radius: 10%;
   }
 
   .about-img img {
